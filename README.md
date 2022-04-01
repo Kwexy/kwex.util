@@ -1,7 +1,7 @@
 # **kwex.util**
 A [Discord](https://discord.com) bot with utilities made by Kwexy🤖🔧
 
-This bot doesn't have any fancy music players or anything like that. This bot is a learning experience and is focused on automating and problem solving tools.
+**kwex.util** doesn't have any fancy music players or anything like that. This bot is a learning experience and is focused on automating and problem solving tools.
 
 ## Features:
 
